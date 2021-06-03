@@ -1,4 +1,4 @@
-ReactContentQuery.ExternalScripts.MyScriptFileV3 = {
+ReactContentQuery.ExternalScripts.filtercode = {
 
     onPreRender: function(wpContext, handlebarsContext) {
         productObj = {};
